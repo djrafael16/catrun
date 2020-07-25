@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scena/menulogin.unity
+    guid: 9cd107ab8ed28fc4cb30be3b78a6d74b
+  - enabled: 1
+    path: Assets/scena/CatRun.unity
+    guid: e37ae8565058cf142892d70d6da0a087
+  - enabled: 1
+    path: Assets/scena/GameOver.unity
+    guid: 3e7bf0b7c099ddc408c5517c46bdfe4b
+  m_configObjects: {}
